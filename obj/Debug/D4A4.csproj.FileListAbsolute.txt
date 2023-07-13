@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\D4A4\D4A4\bin\Debug\D4A4.exe.config
+C:\Users\moham\source\repos\D4A4\D4A4\bin\Debug\D4A4.exe
+C:\Users\moham\source\repos\D4A4\D4A4\bin\Debug\D4A4.pdb
+C:\Users\moham\source\repos\D4A4\D4A4\obj\Debug\D4A4.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\D4A4\D4A4\obj\Debug\D4A4.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\D4A4\D4A4\obj\Debug\D4A4.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\D4A4\D4A4\obj\Debug\D4A4.exe
+C:\Users\moham\source\repos\D4A4\D4A4\obj\Debug\D4A4.pdb
